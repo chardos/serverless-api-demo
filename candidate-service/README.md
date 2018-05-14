@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -X POST -d '{"fullname":"Shekhar Gulati","email": "shekhargulati84@gmail.com", "experience":12}' https://9w1q81b0d8.execute-api.ap-southeast-2.amazonaws.com/dev/candidates
